@@ -1,0 +1,2 @@
+cat 73CN-AML-cn_meth-TCGA.csv.tar.gz.part* > 73CN-AML-cn_meth-TCGA.csv.tar.gz
+tar -xf 73CN-AML-cn_meth-TCGA.csv.tar.gz -C .
